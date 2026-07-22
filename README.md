@@ -11,3 +11,9 @@ if there are some changes on your github repositories use this command to pull r
 
 git push --set-upstream origin feature/contacts
 when you create a new branch for example a new feature you can use this command to continuosly push updates and changes on your selected branches
+
+git status
+to detect untrackable files or not commited files.
+
+git rm --cached index.html
+to make the file untrackable
